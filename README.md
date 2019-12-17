@@ -1,2 +1,2 @@
 # Udacity-Bertelsmann-Arvato-Capstone
-Udacity Machine Learning Engineer Nanodegree Capstone Proposal
+This repository contains the Udacity Machine Learning Engineer Nanodegree Capstone Proposal.
