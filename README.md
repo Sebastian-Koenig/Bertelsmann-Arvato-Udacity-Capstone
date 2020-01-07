@@ -7,16 +7,16 @@ This repository contains:
 ## Code Libraries Used
 
 #### numpy
-Adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. 
+Support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. 
 
 #### pandas
-Used for data frames and associated opperations. 
+Data frames and associated opperations. 
 
 #### matplotlib
-Used for data visualisation.
+Data visualisation.
 
 #### pickle
-Used to save and load data, in this case lists and trained machine learning models. 
+Save and load data, in this case lists and trained machine learning models. 
 
 #### seaborn
 Additional visualizatio tools for matplotlib.
@@ -30,7 +30,7 @@ Specialized module to adress data imbalance via resampling.
 #### xgboost
 Extreme Gradient Boosting machine learning algorithm. 
 #### sklearn-deap
-Used for it's evolutionary grid search algorithm. 
+Evolutionary grid search algorithm. 
 
 ## Data Used
 Data used in this project is proprietary and thus not included in this repository.
