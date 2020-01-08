@@ -29,8 +29,6 @@ Specialized module to adress data imbalance via resampling.
 
 #### xgboost
 Extreme Gradient Boosting machine learning algorithm. 
-#### sklearn-deap
-Evolutionary grid search algorithm. 
 
 ## Data Used
 Data used in this project is proprietary and thus not included in this repository.
